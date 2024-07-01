@@ -1,2 +1,16 @@
-# Hospital-Recommendation-System-based-on-Hospital-Review-Data_IME653
-병원을 찾아줘! 병원 리뷰 데이터 기반 병원 추천 시스템, 비정형데이터분석(IME653(00))
+# Intro 
+### 📚 Course
+비정형데이터분석(IME653(00)) </br>
+### 🗓️ Date 
+Project term : 2023.11.17 ~ 2023.12.13 </br>
+### :man: Professor 
+  고려대학교, 산업경영공학과 강필성 교수님 
+
+# 1. Introduction
+본 과제는 네이버의 한글 병원 리뷰 데이터를 활용하여 사용자가 프롬프트로 입력한 조건과 가장 잘 어울리는 병원을 추천해주기 위해 텍스트 비정형 데이터에 대해 전처리, 토픽 모델링, 후처리, 워드 임베딩, 감성 분석, 유사도 계산, 유사도 가중치 설계 및 적용을 하여 추천 시스템을 설계하였다.
+
+#	2. Framework
+
+<img src="./Image/Framework.png">
+
+- 본 과제는 다음과 같은 프레임워크를 통해 설계하였다.
