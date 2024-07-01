@@ -16,3 +16,6 @@ Project term : 2023.11.17 ~ 2023.12.13 </br>
 - 본 과제는 다음과 같은 프레임워크를 통해 설계하였다.
 
 - 자세한 내용은 아래의 URL을 참고 바란다.
+
+# 3. 설명 링크
+https://kimun99.tistory.com/entry/%EB%B3%91%EC%9B%90%EC%9D%84-%EC%B0%BE%EC%95%84%EC%A4%98-%EB%B3%91%EC%9B%90-%ED%95%9C%EA%B8%80-%EB%A6%AC%EB%B7%B0-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B8%B0%EB%B0%98-%EB%B3%91%EC%9B%90-%EC%B6%94%EC%B2%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C
